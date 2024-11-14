@@ -1,6 +1,12 @@
-Voici une analyse de l'empathie pour chaque acteur (apprenant, formateur, responsable de formation) dans l'application **Soli-LMS** :
+Donnez l'empathie personaliser au ce pkg_competences qui exciste dans le (Package 1 : Gestion des Compétences et des Modules) pour cette application (Soli-LMS) pour chaque acteur (apprenant, formateur, responsable de formation).
+donner les parties:
+- Ce qu'il dit.
+- Ce qu'il fait.
+- Ce qu'il ressent.
+- Ce dont il a besoin.
 
-## Empathie Globale :
+
+## empathy Global
 
 ### Responsable de Formation
 
@@ -77,9 +83,7 @@ Voici une analyse de l'empathie pour chaque acteur (apprenant, formateur, respon
 
 En résumé, chaque acteur du système **Soli-LMS** souhaite une expérience plus fluide et centralisée, avec des outils clairs et intuitifs qui facilitent le suivi des compétences, des projets et des formations.
 
-
-
-## Ideation Globale : 
+## ideation Global
 
 ### **Idéation (Design Thinking) pour Soli-LMS**
 
