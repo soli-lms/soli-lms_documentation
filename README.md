@@ -2,6 +2,15 @@
 
 Ce dépôt centralise tous les documents liés à l'analyse, la conception, et le rapport final de Soli-LMS.
 
+## Cloner le dépôt
+
+````bash
+git clone https://github.com/soli-lms/soli-lms_documentation.git
+#Initialiser et mettre à jour les sous-modules
+git submodule init
+git submodule update
+````
+
 ## Insertion des modules au dépôt
 
 ````bash
