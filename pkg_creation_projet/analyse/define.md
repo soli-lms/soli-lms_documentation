@@ -4,7 +4,7 @@ Le **pkg_creation_projet** vise à simplifier la création, la gestion et le sui
 
 ### Problèmes spécifiques pour **pkg_creation_projet** :
 
-- **Pour le Responsable de Formation** : Il a besoin d'un moyen simple pour gérer les projets et vérifier qu'ils sont bien alignés avec les compétences à enseigner. Un outil centralisé l'aiderait à coordonner et assigner les projets plus facilement.
+- **Pour le Responsable de Formation** :  Il a besoin d'un moyen simple pour gérer les projets et vérifier qu'ils sont bien alignés avec les compétences à enseigner. Un outil centralisé l'aiderait à coordonner et assigner les projets plus facilement.
 
 - **Pour les Formateurs** : Ils manquent d'un outil pratique pour créer et attribuer des projets de manière claire et rapide. Un outil simple leur permettrait de gagner du temps tout en s'assurant que les projets sont bien définis.
 
