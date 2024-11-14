@@ -1,66 +1,77 @@
-### Empathie pour le module `pkg_competences`
+### **Analyse d'Empathie pour le module pkg_competences de Soli-LMS**
+
+Le **module pkg_competences** de Soli-LMS, visant à hiérarchiser les compétences par niveaux et offrir une option de personnalisation des descriptions, doit répondre aux besoins spécifiques des **Responsables de Formation**, **Formateurs** et **Apprenants**. Voici une analyse d’empathie centrée sur chaque acteur clé :
 
 ---
 
-#### **Responsable de Formation**
+### **Responsable de Formation**
 
-**Ce qu'il dit**  
-- « La structuration des compétences par niveaux est essentielle pour la clarté de nos filières. »
-- « J'ai besoin de pouvoir adapter les descriptions pour chaque niveau, selon les besoins des filières. »
+#### **Ce qu'il dit** :
+- « Nous avons deux filières, chacune avec ses modules et compétences à différents niveaux. »
+- « J'ai besoin d'un suivi précis des compétences et des taux horaires. »
 
-**Ce qu'il fait**  
-- Définit des niveaux de compétences dans les différents modules et filières.
-- Personnalise les descriptions et vérifie régulièrement l’alignement des compétences avec les objectifs de chaque programme.
+#### **Ce qu'il fait** :
+- Il gère les programmes de formation en définissant les modules, compétences et niveaux pour chaque filière.
+- Il cherche des outils permettant de centraliser et optimiser la gestion des compétences et des taux horaires.
 
-**Ce qu'il ressent**  
-- Soulagé par la possibilité de hiérarchiser et d’adapter les compétences selon les besoins spécifiques de chaque programme.
-- Plus en contrôle, car il peut centraliser et adapter les descriptions pour répondre aux évolutions des programmes.
+#### **Ce qu'il ressent** :
+- Débordé par le volume d'informations à structurer et à suivre pour chaque filière et chaque compétence.
+- Frustré par le manque de visualisation centralisée des progrès et des données spécifiques à chaque compétence.
 
-**Ce dont il a besoin**  
-- Une structure modulaire pour définir les niveaux de compétences, avec la possibilité d’ajuster et de personnaliser facilement les descriptions.
-- Un accès rapide à une vue d'ensemble des compétences par niveau pour chaque filière.
-
----
-
-#### **Formateur**
-
-**Ce qu'il dit**  
-- « J'ai besoin de voir les niveaux de compétences et leurs descriptions pour mieux orienter les apprenants. »
-- « L'évaluation devient plus claire avec des descriptions adaptées à chaque niveau. »
-
-**Ce qu'il fait**  
-- Suit la progression des apprenants selon les niveaux de compétence, en adaptant les briefs aux compétences attendues.
-- Communique régulièrement sur les attentes en fonction des niveaux de compétence pour une meilleure compréhension des objectifs.
-
-**Ce qu'il ressent**  
-- Reconnaissant d'avoir des descriptions claires pour chaque niveau, ce qui facilite l’évaluation.
-- Moins de frustration, car il dispose d’un outil structuré pour mieux encadrer et suivre les progrès des apprenants.
-
-**Ce dont il a besoin**  
-- Une interface intuitive pour consulter les niveaux de compétences et leurs descriptions, avec la possibilité d'évaluer rapidement les progrès de chaque apprenant.
-- Des descriptions de niveaux personnalisables pour affiner les attentes selon le contexte des projets ou des modules.
+#### **Ce dont il a besoin** :
+- Un **tableau de bord clair et synthétique** pour visualiser les modules, compétences, leur progression et les taux horaires.
+- Un système de **gestion des compétences par niveau et taux horaire**, permettant de structurer et suivre efficacement les informations.
+- Des **définitions claires et accessibles** des compétences pour éviter toute confusion et simplifier les processus de suivi.
 
 ---
 
-#### **Apprenant**
+### **Formateur**
 
-**Ce qu'il dit**  
-- « Savoir où j'en suis dans mes compétences me motive à progresser. »
-- « J'aimerais que chaque niveau de compétence soit bien expliqué, pour savoir ce qui est attendu de moi. »
+#### **Ce qu'il dit** :
+- « J'ai besoin de voir et d'évaluer les compétences des apprenants facilement. »
+- « Les outils actuels, comme Excel, rendent difficile le suivi des progrès. »
 
-**Ce qu'il fait**  
-- Consulte les niveaux de compétence pour chaque module afin de comprendre les attentes et objectifs à atteindre.
-- Utilise les descriptions pour évaluer ses forces et identifier les compétences à améliorer.
+#### **Ce qu'il fait** :
+- Il attribue des notes aux compétences des apprenants, en évaluant leur niveau à chaque étape du module.
+- Il consulte la progression des projets et attribue des briefs pour aligner les objectifs d'apprentissage.
 
-**Ce qu'il ressent**  
-- Plus de confiance et de motivation grâce aux descriptions détaillées des niveaux de compétences.
-- Un sentiment de clarté et de structure, ce qui rend le parcours de progression plus accessible et motivant.
+#### **Ce qu'il ressent** :
+- Frustré par l'inefficacité des outils existants (Excel, autres systèmes non centralisés) pour suivre l’évolution des compétences de manière fluide.
+- Ressent le besoin d'une **interface intuitive** qui facilite le suivi des progrès des apprenants et l’évaluation des compétences.
 
-**Ce dont il a besoin**  
-- Un tableau de bord clair montrant les compétences validées et celles à développer, avec des descriptions précises pour chaque niveau.
-- Un retour régulier du formateur sur son positionnement dans les niveaux de compétence et sur les étapes pour progresser.
+#### **Ce dont il a besoin** :
+- Une **interface centralisée** pour consulter, noter et suivre les compétences des apprenants de manière efficace.
+- Des **outils intégrés de gestion de projets et de briefs**, pour suivre les livrables et communiquer sur l’avancement des projets.
+- Des **alertes et notifications** pour rappeler les deadlines et les retours à donner aux apprenants.
 
 ---
 
-**Résumé**  
-Avec `pkg_competences`, chaque acteur bénéficie d'une structuration des compétences par niveaux et d'une personnalisation des descriptions. Cela rend l’apprentissage et l’évaluation plus transparents et motivants.
+### **Apprenant**
+
+#### **Ce qu'il dit** :
+- « J'ai besoin de suivre l'état de mes projets et de consulter mes compétences validées. »
+- « Je dois pouvoir changer le statut de mes projets facilement. »
+
+#### **Ce qu'il fait** :
+- Il travaille sur ses projets, soumet des livrables pour validation et cherche à améliorer ses compétences en fonction des retours reçus.
+- Il consulte régulièrement son tableau de bord pour suivre sa progression et trouver des ressources supplémentaires.
+
+#### **Ce qu'il ressent** :
+- Parfois **perdu** face à la complexité du suivi de ses compétences et des projets à travers des outils non adaptés.
+- Souhaite plus de **visibilité et clarté** sur son parcours d'apprentissage pour mieux comprendre où il en est et comment progresser.
+
+#### **Ce dont il a besoin** :
+- Un **espace personnel clair et structuré**, où il peut facilement voir ses compétences validées et l'état de ses projets.
+- Un accès facile à des **ressources supplémentaires** et des **feedbacks réguliers** de la part du formateur pour améliorer ses compétences.
+- Un moyen simple pour changer le **statut de ses projets** et suivre sa progression en temps réel.
+
+---
+
+### **Conclusion de l’analyse d'empathie**
+
+En résumé, pour résoudre les problèmes rencontrés par les différents acteurs de Soli-LMS, le module pkg_competences doit :
+- **Pour le Responsable de Formation** : Offrir une vue d'ensemble claire des modules et compétences, avec un tableau de bord centralisé pour le suivi de la progression et des taux horaires.
+- **Pour les Formateurs** : Fournir une interface intuitive qui facilite le suivi des compétences des apprenants, la gestion des projets et la communication avec les apprenants.
+- **Pour les Apprenants** : Mettre à leur disposition un espace structuré pour suivre leur progression, gérer leurs projets et consulter des ressources adaptées à leurs besoins.
+
+Le **projet pkg_competences** doit, dans son ensemble, offrir des outils centralisés et intuitifs pour répondre à ces besoins variés, améliorant ainsi l’expérience des utilisateurs dans la gestion des compétences et le suivi des projets.

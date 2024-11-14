@@ -1,23 +1,5 @@
-### Définition du Problème pour `pkg_competences`
+Le problème personnalisé pour le package **pkg_competences** dans le système **Soli-LMS** peut être défini comme suit : 
 
-**Problème principal** : L’absence d’un système de hiérarchisation des compétences par niveaux, associé à des descriptions personnalisables, limite l’efficacité et la clarté du suivi des compétences pour les différents acteurs du système (responsable de formation, formateur, apprenant).
+Le **pkg_competences** vise à répondre aux défis de gestion des compétences dans une plateforme de gestion de formations. Actuellement, les responsables de formation, formateurs et apprenants rencontrent des difficultés dans la structuration, la personnalisation des compétences. Les principaux problèmes incluent une complexité excessive dans l'organisation des compétences par niveau et filière, ainsi qu'un manque de clarté dans les descriptions des compétences, ce qui entrave la compréhension et la progression des apprenants. De plus, les outils existants ne permettent pas une gestion intuitive et centralisée, rendant le suivi des compétences et de la progression difficile et chronophage pour tous les acteurs impliqués. 
 
-#### Détails du problème par acteur
-
----
-
-1. **Responsable de Formation**  
-   - **Problème** : Actuellement, le responsable de formation a des difficultés à structurer et visualiser les compétences par niveaux, de manière claire et adaptable aux spécificités de chaque filière. Les descriptions standardisées ne répondent pas toujours aux besoins des différents programmes.
-   - **Conséquences** : Cela entraîne une surcharge de travail pour ajuster manuellement les informations, tout en compliquant le suivi de l’alignement entre les compétences et les objectifs de formation.
-   
-2. **Formateur**  
-   - **Problème** : Le formateur ne dispose pas d'un accès rapide et clair aux niveaux de compétence et à leurs descriptions, ce qui complique le processus d’évaluation et le suivi des apprenants. De plus, l'absence de descriptions personnalisées limite sa capacité à adapter les attentes aux spécificités des projets.
-   - **Conséquences** : La frustration augmente face aux outils actuels, peu adaptés, qui freinent l’évaluation des compétences et nuisent à la communication efficace des attentes avec les apprenants.
-
-3. **Apprenant**  
-   - **Problème** : L’apprenant est parfois perdu dans la compréhension de son parcours et du suivi de ses compétences, en raison de descriptions de niveaux non spécifiques. Il manque également de visibilité sur sa progression et sur les attentes précises associées à chaque niveau de compétence.
-   - **Conséquences** : Le manque de structure et de clarté dans les descriptions des niveaux peut générer de la confusion et affecter sa motivation.
-
----
-
-**Résumé du problème** : Sans une hiérarchisation des compétences par niveaux associée à des descriptions personnalisables, les besoins de structuration, de clarté, et d’adaptation des informations pour chaque acteur ne sont pas pleinement satisfaits. Cela crée des frictions dans le suivi des compétences, la communication des attentes, et la motivation des apprenants.
+Ainsi, l’objectif du **pkg_competences** est de fournir une interface centralisée et visuelle permettant une gestion efficace des compétences, où les responsables de formation peuvent facilement structurer et personnaliser les compétences par niveau.
