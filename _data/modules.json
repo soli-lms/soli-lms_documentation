@@ -37,5 +37,10 @@
         "name":"pkg_autorisation",
         "titre":"Gestion des Autorisation",
         "ordre": 9
+},
+{
+    "name":"pkg_suivi_tache",
+    "titre":"Suivi des Taches",
+    "ordre": 10
 }
 ]
