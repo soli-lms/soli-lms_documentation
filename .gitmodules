@@ -4,3 +4,18 @@
 [submodule "pkg_competences"]
 	path = pkg_competences
 	url = https://github.com/soli-lms/pkg_competences_docs.git
+[submodule "pkg_creation_projets"]
+	path = pkg_creation_projets
+	url = https://github.com/soli-lms/pkg_creation_projets_docs.git
+[submodule "pkg_realisation_projets"]
+	path = pkg_realisation_projets
+	url = https://github.com/soli-lms/pkg_realisation_projets_docs.git
+[submodule "pkg_validations"]
+	path = pkg_validations
+	url = https://github.com/soli-lms/pkg_validations_docs.git
+[submodule "pkg_suivi"]
+	path = pkg_suivi
+	url = https://github.com/soli-lms/pkg_suivi_docs.git
+[submodule "pkg_autorisation"]
+	path = pkg_autorisation
+	url = https://github.com/soli-lms/pkg_autorisation_docs.git
