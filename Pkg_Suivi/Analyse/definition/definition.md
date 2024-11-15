@@ -1,0 +1,2 @@
+**Définition du problème :**  
+L’apprenant éprouve des difficultés à naviguer efficacement et à obtenir un feedback clair lors de l'utilisation du package `pkg_QCM-Apprenant`, ce qui limite sa capacité à évaluer ses connaissances de manière autonome.
