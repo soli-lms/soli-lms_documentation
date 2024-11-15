@@ -5,7 +5,7 @@ order: 1
 
 # Rapports
 
-<a href="{{ site.baseurl }}/pkg_principale/rapport"> Rapport globale </a> 
+<a href="{{ site.baseurl }}/pkg_global/rapport"> Rapport globale </a> 
 
 ## Par packages
 

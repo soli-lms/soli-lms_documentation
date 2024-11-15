@@ -22,3 +22,4 @@
 [submodule "pkg_qcm_apprenant_docs"]
 	path = pkg_qcm_apprenant_docs
 	url = git@github.com:soli-lms/pkg_qcm_apprenant_docs.git
+
