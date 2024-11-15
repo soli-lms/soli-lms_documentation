@@ -1,0 +1,41 @@
+[ 
+{
+    "name":"pkg_creation_projets",
+    "titre":"Création des projets",
+    "ordre": 3
+    
+},
+{
+    "name":"pkg_realisation_projets",
+    "titre":"Réalisation des projets",
+    "ordre": 4
+    
+},
+{
+    "name":"pkg_validations",
+    "titre":"Validation des projets",
+    "ordre": 5
+    
+},    
+{
+    "name":"pkg_suivi",
+    "titre":"Suivi de développement des compétences",
+    "ordre": 7
+},
+{
+    "name":"pkg_rh",
+    "titre":"Gestion RH",
+    "ordre": 1
+},
+{
+        "name":"pkg_competences",
+        "titre":"Gestion des compétences",
+        "ordre": 2
+        
+},
+{
+        "name":"pkg_autorisation",
+        "titre":"Gestion des Autorisation",
+        "ordre": 9
+}
+]
