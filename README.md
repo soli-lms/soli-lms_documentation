@@ -17,3 +17,22 @@ git submodule update
 git submodule add https://github.com/soli-lms/pkg_rh_docs.git pkg_rh
 git submodule add https://github.com/soli-lms/pkg_competences_docs.git pkg_competences
 ````
+
+
+## Exécution de rapport localement sans github pages
+
+
+
+````bash
+# Installation
+bundle install
+
+# Exécution
+serve.ps1
+````
+
+
+## Rapport et Présentation 
+
+- [Rapport](https://soli-lms.github.io/soli-lms_docs/)
+- [Présentation](https://soli-lms.github.io/soli-lms_docs/)
