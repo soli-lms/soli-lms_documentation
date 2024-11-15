@@ -1,5 +1,5 @@
 
-{% assign packages_json = site.data.packages_json %}
+{% assign modules = site.data.modules %}
 
 # {{competence}} - {{controle}}
 
@@ -28,7 +28,7 @@
 {% for package_name in packages %}
 
 
-{% assign package_obj = packages_json | where: 'name', package_name | first  %}
+{% assign package_obj = modules | where: 'name', package_name | first  %}
 {% if package_name != "controle" %}
 #  {{package_obj.titre}}
 {% endif %}

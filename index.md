@@ -5,12 +5,12 @@ order: 1
 
 # Rapports
 
-<a href="/memoire/rapport/rapport"> Rapport globale </a> 
+<a href="{{ site.baseurl }}/pkg_principale/rapport"> Rapport globale </a> 
 
 ## Par packages
 
 <ul>
-  {% for package in site.data.packages_json %}
-    <li> <a href="/essarraj-fouad/{{ package.name }}/rapport"> {{ package.titre }} </a> </li>
+  {% for package in site.data.modules %}
+    <li> <a href="{{ site.baseurl }}/{{ package.name }}/rapport"> {{ package.titre }} </a> </li>
   {% endfor %}
 </ul>
